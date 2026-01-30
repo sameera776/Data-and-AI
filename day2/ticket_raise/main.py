@@ -31,3 +31,19 @@ details = ticket.create_ticket(
 )
 
 print(details)
+
+
+# Sample Input
+# Enter customer name: Sameera
+# Enter phone number: 9876543210
+# Enter ticket message: ticket:TK123.login_issue
+# Enter number of service charges: 2
+# Charge 1: 500
+# Charge 2: 300
+
+# Sample Output
+# Name: Sameera
+# Phone: 98******10
+# Ticket_ID: TK123
+# Issue: Login Issue
+# Total Charges: 800

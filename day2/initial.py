@@ -9,3 +9,4 @@ print(cleaned)
 msg="trip was amazing"
 count=len(msg.split())
 print(count)
+
